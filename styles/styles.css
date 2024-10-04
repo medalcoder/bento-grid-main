@@ -1,0 +1,113 @@
+/* * {
+    background-color: beige;
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('bento-grid-main\assets\fonts\DMSans-Italic-VariableFont_opsz,wght.ttf') format('truetype');
+}
+
+
+body {
+    font-family: DMSans-Italic-VariableFont_opsz,wght;
+} */
+
+/* Hero Card */
+div.hero {
+    width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+    padding: 15px;
+}
+.hero img {
+    width: inherit;
+}
+
+/* Multiple Account and Platforms */
+div.body1 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body1 img {
+    width: 200px;
+    height: 50px;
+}
+
+/* Consistent Schedule */
+div.body2 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body2 img {
+    width: 200px;
+    height: 100px;
+}
+
+/* Schedule Social Media */
+div.body3 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body3 img {
+    width: 200px;
+    height: 100px;
+}
+
+/* Grow Followers */
+div.body4 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body4 img {
+    width: 200px;
+    height: 100px;
+}
+
+/* Faster Audience Growth */
+div.body5 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body5 img {
+    width: 200px;
+    height: 100px;
+}
+
+/* Create and Schedule */
+div.body6 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body6 img {
+    width: 200px;
+    height: 100px;
+}
+
+/* Write your content with AI */
+div.body7 {
+    max-width: 500px;
+    height: 200px;
+    background-color: hsl(228, 45%, 44%);
+    align-items: center;
+}
+.body7 img {
+    width: 200px;
+    height: 100px;
+}
+
+.attribution {
+    font-size: 16px;
+}
